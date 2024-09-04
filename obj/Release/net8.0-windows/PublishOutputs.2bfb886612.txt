@@ -1,0 +1,11 @@
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\Yeni klasör\KütüphaneYönetimSistemi.exe
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\Yeni klasör\KütüphaneYönetimSistemi.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\Yeni klasör\KütüphaneYönetimSistemi.deps.json
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\Yeni klasör\KütüphaneYönetimSistemi.runtimeconfig.json
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\Yeni klasör\KütüphaneYönetimSistemi.pdb
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\Yeni klasör\System.Data.SqlClient.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\Yeni klasör\runtimes\win-arm64\native\sni.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\Yeni klasör\runtimes\win-x64\native\sni.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\Yeni klasör\runtimes\win-x86\native\sni.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\Yeni klasör\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\Yeni klasör\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

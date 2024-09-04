@@ -1,0 +1,11 @@
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\kutuphnaeexe\KütüphaneYönetimSistemi.exe
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\kutuphnaeexe\KütüphaneYönetimSistemi.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\kutuphnaeexe\KütüphaneYönetimSistemi.deps.json
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\kutuphnaeexe\KütüphaneYönetimSistemi.runtimeconfig.json
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\kutuphnaeexe\KütüphaneYönetimSistemi.pdb
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\kutuphnaeexe\System.Data.SqlClient.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\kutuphnaeexe\runtimes\win-arm64\native\sni.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\kutuphnaeexe\runtimes\win-x64\native\sni.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\kutuphnaeexe\runtimes\win-x86\native\sni.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\kutuphnaeexe\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\kutuphnaeexe\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

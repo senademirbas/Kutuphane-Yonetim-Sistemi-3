@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\KütüphaneYönetimSistemi\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="FormGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKitaplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

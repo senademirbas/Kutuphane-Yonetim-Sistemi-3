@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\senad\\OneDrive - Mu\u011Fla S\u0131tk\u0131 Ko\u00E7man \u00DCniversitesi\\Masa\u00FCst\u00FC\\summer20204\\C#\\K\u00FCt\u00FCphaneY\u00F6netimSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2915CD1B-DFBC-42DD-8335-E8C23E8F2497}|K\u00FCt\u00FCphaneY\u00F6netimSistemi.csproj|c:\\users\\senad\\onedrive - mu\u011Fla s\u0131tk\u0131 ko\u00E7man \u00FCniversitesi\\masa\u00FCst\u00FC\\summer20204\\c#\\k\u00FCt\u00FCphaney\u00F6netimsistemi\\formkitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2915CD1B-DFBC-42DD-8335-E8C23E8F2497}|K\u00FCt\u00FCphaneY\u00F6netimSistemi.csproj|solutionrelative:formkitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2915CD1B-DFBC-42DD-8335-E8C23E8F2497}|K\u00FCt\u00FCphaneY\u00F6netimSistemi.csproj|c:\\users\\senad\\onedrive - mu\u011Fla s\u0131tk\u0131 ko\u00E7man \u00FCniversitesi\\masa\u00FCst\u00FC\\summer20204\\c#\\k\u00FCt\u00FCphaney\u00F6netimsistemi\\formkitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2915CD1B-DFBC-42DD-8335-E8C23E8F2497}|K\u00FCt\u00FCphaneY\u00F6netimSistemi.csproj|solutionrelative:formkitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2915CD1B-DFBC-42DD-8335-E8C23E8F2497}|K\u00FCt\u00FCphaneY\u00F6netimSistemi.csproj|c:\\users\\senad\\onedrive - mu\u011Fla s\u0131tk\u0131 ko\u00E7man \u00FCniversitesi\\masa\u00FCst\u00FC\\summer20204\\c#\\k\u00FCt\u00FCphaney\u00F6netimsistemi\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2915CD1B-DFBC-42DD-8335-E8C23E8F2497}|K\u00FCt\u00FCphaneY\u00F6netimSistemi.csproj|solutionrelative:formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2915CD1B-DFBC-42DD-8335-E8C23E8F2497}|K\u00FCt\u00FCphaneY\u00F6netimSistemi.csproj|c:\\users\\senad\\onedrive - mu\u011Fla s\u0131tk\u0131 ko\u00E7man \u00FCniversitesi\\masa\u00FCst\u00FC\\summer20204\\c#\\k\u00FCt\u00FCphaney\u00F6netimsistemi\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2915CD1B-DFBC-42DD-8335-E8C23E8F2497}|K\u00FCt\u00FCphaneY\u00F6netimSistemi.csproj|solutionrelative:formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormKitaplar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\senad\\OneDrive - Mu\u011Fla S\u0131tk\u0131 Ko\u00E7man \u00DCniversitesi\\Masa\u00FCst\u00FC\\summer20204\\C#\\K\u00FCt\u00FCphaneY\u00F6netimSistemi\\FormKitaplar.cs",
+              "RelativeDocumentMoniker": "FormKitaplar.cs",
+              "ToolTip": "C:\\Users\\senad\\OneDrive - Mu\u011Fla S\u0131tk\u0131 Ko\u00E7man \u00DCniversitesi\\Masa\u00FCst\u00FC\\summer20204\\C#\\K\u00FCt\u00FCphaneY\u00F6netimSistemi\\FormKitaplar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormKitaplar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:00:33.196Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormKitaplar.cs",
+              "DocumentMoniker": "C:\\Users\\senad\\OneDrive - Mu\u011Fla S\u0131tk\u0131 Ko\u00E7man \u00DCniversitesi\\Masa\u00FCst\u00FC\\summer20204\\C#\\K\u00FCt\u00FCphaneY\u00F6netimSistemi\\FormKitaplar.cs",
+              "RelativeDocumentMoniker": "FormKitaplar.cs",
+              "ToolTip": "C:\\Users\\senad\\OneDrive - Mu\u011Fla S\u0131tk\u0131 Ko\u00E7man \u00DCniversitesi\\Masa\u00FCst\u00FC\\summer20204\\C#\\K\u00FCt\u00FCphaneY\u00F6netimSistemi\\FormKitaplar.cs",
+              "RelativeToolTip": "FormKitaplar.cs",
+              "ViewState": "AQIAADwBAAAAAAAAAAAMwIMBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:00:49.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormGiris.cs",
+              "DocumentMoniker": "C:\\Users\\senad\\OneDrive - Mu\u011Fla S\u0131tk\u0131 Ko\u00E7man \u00DCniversitesi\\Masa\u00FCst\u00FC\\summer20204\\C#\\K\u00FCt\u00FCphaneY\u00F6netimSistemi\\FormGiris.cs",
+              "RelativeDocumentMoniker": "FormGiris.cs",
+              "ToolTip": "C:\\Users\\senad\\OneDrive - Mu\u011Fla S\u0131tk\u0131 Ko\u00E7man \u00DCniversitesi\\Masa\u00FCst\u00FC\\summer20204\\C#\\K\u00FCt\u00FCphaneY\u00F6netimSistemi\\FormGiris.cs",
+              "RelativeToolTip": "FormGiris.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCgAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:57:49.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\senad\\OneDrive - Mu\u011Fla S\u0131tk\u0131 Ko\u00E7man \u00DCniversitesi\\Masa\u00FCst\u00FC\\summer20204\\C#\\K\u00FCt\u00FCphaneY\u00F6netimSistemi\\FormGiris.cs",
+              "RelativeDocumentMoniker": "FormGiris.cs",
+              "ToolTip": "C:\\Users\\senad\\OneDrive - Mu\u011Fla S\u0131tk\u0131 Ko\u00E7man \u00DCniversitesi\\Masa\u00FCst\u00FC\\summer20204\\C#\\K\u00FCt\u00FCphaneY\u00F6netimSistemi\\FormGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:25:36.222Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

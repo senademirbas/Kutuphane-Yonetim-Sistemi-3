@@ -1,0 +1,11 @@
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\KütüphaneYönetimSistemi\bin\Release\net8.0-windows\app.publish\KütüphaneYönetimSistemi.exe
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\KütüphaneYönetimSistemi\bin\Release\net8.0-windows\app.publish\KütüphaneYönetimSistemi.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\KütüphaneYönetimSistemi\bin\Release\net8.0-windows\app.publish\KütüphaneYönetimSistemi.deps.json
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\KütüphaneYönetimSistemi\bin\Release\net8.0-windows\app.publish\KütüphaneYönetimSistemi.runtimeconfig.json
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\KütüphaneYönetimSistemi\bin\Release\net8.0-windows\app.publish\KütüphaneYönetimSistemi.pdb
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\KütüphaneYönetimSistemi\bin\Release\net8.0-windows\app.publish\System.Data.SqlClient.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\KütüphaneYönetimSistemi\bin\Release\net8.0-windows\app.publish\runtimes\win-arm64\native\sni.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\KütüphaneYönetimSistemi\bin\Release\net8.0-windows\app.publish\runtimes\win-x64\native\sni.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\KütüphaneYönetimSistemi\bin\Release\net8.0-windows\app.publish\runtimes\win-x86\native\sni.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\KütüphaneYönetimSistemi\bin\Release\net8.0-windows\app.publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\senad\OneDrive - Muğla Sıtkı Koçman Üniversitesi\Masaüstü\summer20204\C#\KütüphaneYönetimSistemi\bin\Release\net8.0-windows\app.publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
